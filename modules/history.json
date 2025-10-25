@@ -1,0 +1,618 @@
+[
+    {
+        "command": "open google.",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "how are you?",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "hello",
+        "response": "Hello there! \ud83d\ude0a How can I help you today?"
+    },
+    {
+        "command": "open google",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "hi.",
+        "response": "Hey! Nice to see you again \ud83d\udc4b"
+    },
+    {
+        "command": "nice to see you again, waving hand sign.",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "i didn't quite catch that. could you say it again?",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "why didn't quite?",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "again.",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "jokes.",
+        "response": null
+    },
+    {
+        "command": "why didn't catch that?",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "sorry, i didn't quite catch that.",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "i didn't quite catch that.",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how are you?",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "tell joke.",
+        "response": null
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "hi",
+        "response": "Hey! Nice to see you again \ud83d\udc4b"
+    },
+    {
+        "command": "open google",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "hi",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "hello",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "might catch",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "could you",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how are you",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "how",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "hi",
+        "response": "Hey! Nice to see you again \ud83d\udc4b"
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "again",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "how are",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "hello",
+        "response": "Hello there! \ud83d\ude0a How can I help you today?"
+    },
+    {
+        "command": "how are you",
+        "response": "I'm doing great! Thanks for asking \ud83e\udd16"
+    },
+    {
+        "command": "jo",
+        "response": "Sorry, I didn't quite catch that. Could you say it again?"
+    },
+    {
+        "command": "open google",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "open google.",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "jo",
+        "response": "Hmm?"
+    },
+    {
+        "command": "patel joke",
+        "response": null
+    },
+    {
+        "command": "take",
+        "response": "Hmm?"
+    },
+    {
+        "command": "right",
+        "response": "Hmm?"
+    },
+    {
+        "command": "show",
+        "response": "Hmm?"
+    },
+    {
+        "command": "open",
+        "response": "What was that?"
+    },
+    {
+        "command": "open",
+        "response": "What was that?"
+    },
+    {
+        "command": "open",
+        "response": "What was that?"
+    },
+    {
+        "command": "open",
+        "response": "What was that?"
+    },
+    {
+        "command": "how",
+        "response": "What was that?"
+    },
+    {
+        "command": "how are",
+        "response": "What was that?"
+    },
+    {
+        "command": "how are",
+        "response": "What was that?"
+    },
+    {
+        "command": "hi",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "how are",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "how are you",
+        "response": "I'm doing great! Thanks for asking \ud83e\udd16"
+    },
+    {
+        "command": "how are",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "how",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "how are you",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "open google",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "open",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "hi.",
+        "response": "Hey! Nice to see you again \ud83d\udc4b"
+    },
+    {
+        "command": "how are you?",
+        "response": "All systems running perfectly \u2699\ufe0f"
+    },
+    {
+        "command": "open google.",
+        "response": "Opening Google \ud83c\udf10"
+    },
+    {
+        "command": "open facebook.",
+        "response": "Opening Facebook \ud83d\udcd8"
+    },
+    {
+        "command": "open youtube.",
+        "response": "Opening YouTube \u25b6\ufe0f"
+    },
+    {
+        "command": "joke.",
+        "response": null
+    },
+    {
+        "command": "patel joke.",
+        "response": null
+    },
+    {
+        "command": "tell jokes.",
+        "response": null
+    },
+    {
+        "command": "right notes.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "write note.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "write notes.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "show notes.",
+        "response": "No notes found yet."
+    },
+    {
+        "command": "right notes take no.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy \ud83e\udd16!"
+    },
+    {
+        "command": "thank you.",
+        "response": "You're most welcome! \ud83d\ude0a"
+    },
+    {
+        "command": "hey.",
+        "response": "Hello there!  How can I help you today?"
+    },
+    {
+        "command": "hotel job.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "tell a joke.",
+        "response": null
+    },
+    {
+        "command": "joke.",
+        "response": null
+    },
+    {
+        "command": "take note.",
+        "response": "\ud83d\udcdd Note saved successfully!"
+    },
+    {
+        "command": "show note.",
+        "response": "Could you repeat?"
+    },
+    {
+        "command": "show notes.",
+        "response": "\ud83d\uddd2\ufe0f Your notes:\n1. ."
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "thank you.",
+        "response": "You're most welcome."
+    },
+    {
+        "command": "hi.",
+        "response": "Hey! Nice to see you again."
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "how are you?",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "show notes.",
+        "response": "You don't have any saved notes yet."
+    },
+    {
+        "command": "tell me a joke.",
+        "response": "Alright, get ready... Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?"
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "how are you?",
+        "response": "I'm doing great! Thanks for asking."
+    },
+    {
+        "command": "open google.",
+        "response": "Opening Google."
+    },
+    {
+        "command": "open facebook.",
+        "response": "Opening Facebook."
+    },
+    {
+        "command": "tell me a joke.",
+        "response": "Want to laugh? Okay \u2014 Why did Microsoft name their search engine BING? Because It's Not Google."
+    },
+    {
+        "command": "hi",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "he.",
+        "response": "Sorry, didn't quite get it."
+    },
+    {
+        "command": "hay.",
+        "response": "I didn't catch that clearly."
+    },
+    {
+        "command": "how are you?",
+        "response": "I'm doing great! Thanks for asking."
+    },
+    {
+        "command": "hi",
+        "response": "Hello there! How can I help you today?"
+    },
+    {
+        "command": "hii",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "how are you",
+        "response": "Feeling awesome, ready to help you!"
+    },
+    {
+        "command": "he.",
+        "response": "Sorry, didn't quite get it."
+    },
+    {
+        "command": "how are you?",
+        "response": "I'm doing great! Thanks for asking."
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "hii",
+        "response": "Hello there! How can I help you today?"
+    },
+    {
+        "command": "how  are you",
+        "response": "Hmm, could you repeat that?"
+    },
+    {
+        "command": "how are you",
+        "response": "I'm doing great! Thanks for asking."
+    },
+    {
+        "command": "hi.",
+        "response": "Hey! Nice to see you again."
+    },
+    {
+        "command": "hi.",
+        "response": "Hello there! How can I help you today?"
+    },
+    {
+        "command": "who are you",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "hi.",
+        "response": "Hey! Nice to see you again."
+    },
+    {
+        "command": "how are you?",
+        "response": "I'm doing great! Thanks for asking."
+    },
+    {
+        "command": "hi.",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "how are you?",
+        "response": "All systems running perfectly."
+    },
+    {
+        "command": "who are you?",
+        "response": "I'm your AI voice assistant \u2014 your digital buddy."
+    },
+    {
+        "command": "tell me a joke.",
+        "response": "Alright, get ready... What do you call eight hobbits? A hobbyte."
+    },
+    {
+        "command": "ignore.",
+        "response": "Say that again, please?"
+    },
+    {
+        "command": "take a note.",
+        "response": "I didn't catch that clearly."
+    },
+    {
+        "command": "take notes.",
+        "response": "Note saved: 's.'"
+    },
+    {
+        "command": "take note.",
+        "response": "Note saved: '.'"
+    },
+    {
+        "command": "sure not.",
+        "response": "I didn't catch that clearly."
+    },
+    {
+        "command": "show notes.",
+        "response": "Here are your saved notes:\n1. s.\n2. ."
+    },
+    {
+        "command": "open google.",
+        "response": "Opening Google."
+    },
+    {
+        "command": "open facebook.",
+        "response": "Opening Facebook."
+    },
+    {
+        "command": "open youtube.",
+        "response": "Opening YouTube."
+    },
+    {
+        "command": "wikipedia.",
+        "response": "Sorry, didn't quite get it."
+    },
+    {
+        "command": "open google.",
+        "response": "Opening Google."
+    },
+    {
+        "command": "hello.",
+        "response": "Hi! What can I do for you?"
+    },
+    {
+        "command": "date.",
+        "response": "I didn't catch that clearly."
+    },
+    {
+        "command": "take time.",
+        "response": "Sorry, didn't quite get it."
+    },
+    {
+        "command": "time.",
+        "response": "Sorry, didn't quite get it."
+    },
+    {
+        "command": "joke.",
+        "response": "Here's one for you: Windows is NOT a virus. Viruses DO something."
+    },
+    {
+        "command": "open facebook.",
+        "response": "Opening Facebook."
+    },
+    {
+        "command": "open.",
+        "response": "Say that again, please?"
+    },
+    {
+        "command": "take note parjya is a hucch",
+        "response": "Note saved: 'parjya is a hucch'"
+    },
+    {
+        "command": "show notes",
+        "response": "Here are your saved notes:\n1. s.\n2. .\n3. parjya is a hucch"
+    }
+]

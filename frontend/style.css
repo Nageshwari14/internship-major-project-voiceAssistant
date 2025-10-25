@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    overflow: hidden;
+}
+
+.container {
+    width: 420px;
+    height: 620px;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    overflow: hidden;
+    position: relative;
+}
+
+header {
+    background-color: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow-y: auto;
+    background-color: #e0f7fa;
+    animation: fadeIn 0.5s ease-in;
+}
+
+.message {
+    padding: 12px 18px;
+    border-radius: 20px;
+    max-width: 75%;
+    word-wrap: break-word;
+    font-size: 15px;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.1);
+    opacity: 0;
+    transform: translateY(10px);
+    animation: slideIn 0.3s forwards;
+}
+
+.user {
+    background-color: #0077b6;
+    color: white;
+    align-self: flex-end;
+}
+
+.bot {
+    background-color: #90e0ef;
+    color: #03045e;
+    align-self: flex-start;
+}
+
+.input-area {
+    display: flex;
+    padding: 12px;
+    border-top: 1px solid #ccc;
+    background-color: #f2f2f2;
+    border-radius: 0 0 20px 20px;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px 15px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 14px;
+}
+
+button {
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    border: none;
+    background: none;
+    transition: transform 0.1s ease;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+.mic-listening {
+    animation: micGlow 1s infinite alternate;
+}
+
+@keyframes slideIn {
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes micGlow {
+    0% { color: #0077b6; text-shadow: 0 0 5px #00f, 0 0 10px #0ff; }
+    100% { color: #00f; text-shadow: 0 0 10px #00f, 0 0 20px #0ff; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+
+
+
